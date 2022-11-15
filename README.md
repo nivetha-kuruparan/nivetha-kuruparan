@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Nivetha Kuruparan
 - 👧 My pronouns are she/her
-- 💻 I’m a second year software engineer studying at McMaster University
+- 💻 I’m a third year software engineer studying at McMaster University
 - 📚 I’m currently learning React.js, and Node.js
 - 📫 My email is nivetha.kuruparan@gmail.com 
 
